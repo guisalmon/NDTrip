@@ -2836,7 +2836,7 @@
 		width: 100%;
 		background: #fff;
 		background: rgba(255, 255, 255, 0.50);
-		height: 50px;
+		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
 	}
@@ -2868,6 +2868,7 @@
 
 		#nav ul {
 			margin: 0;
+            text-align: center
 		}
 
 			#nav ul li {
